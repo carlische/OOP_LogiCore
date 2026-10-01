@@ -1,0 +1,11 @@
+/Users/user/LogiCore/LogiCore.Domain/bin/Debug/net8.0/LogiCore.Domain.deps.json
+/Users/user/LogiCore/LogiCore.Domain/bin/Debug/net8.0/LogiCore.Domain.dll
+/Users/user/LogiCore/LogiCore.Domain/bin/Debug/net8.0/LogiCore.Domain.pdb
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/LogiCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/LogiCore.Domain.AssemblyInfoInputs.cache
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/LogiCore.Domain.AssemblyInfo.cs
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/LogiCore.Domain.csproj.CoreCompileInputs.cache
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/LogiCore.Domain.dll
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/refint/LogiCore.Domain.dll
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/LogiCore.Domain.pdb
+/Users/user/LogiCore/LogiCore.Domain/obj/Debug/net8.0/ref/LogiCore.Domain.dll
