@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogiCore.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12007f8b3e7c53073a001314b04d18636a2f859")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogiCore.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogiCore.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
